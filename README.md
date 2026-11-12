@@ -1,2 +1,26 @@
-# wads
-Уровни для DOOM 2
+## Уровни для DOOM 2
+
+
+* **Год:** 1995, 1996
+* **Статус:** Архив
+
+Скачать можно в [разделе релизов](./../../releases).
+Или на [ich.su](https://ich.su/wads/)
+
+Внутри сами уровни, демки прохождения и файлы для запуска. Читаем и играем!
+
+Скриншоты:
+
+* ![](./screenshots/complex.jpg)
+* ![](./screenshots/giddy.jpg)
+* ![](./screenshots/scare.jpg)
+* ![](./screenshots/night.jpg)
+
+#
+
+страница проекта на гитхабе:
+[github.com/ich-su/wads](https://github.com/ich-su/wads)
+
+страница на ich.su:
+[ich.su/wads](https://ich.su/wads/)
+
