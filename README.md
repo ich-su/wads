@@ -10,6 +10,8 @@
 
 Внутри сами уровни, демки прохождения и файлы для запуска и инструкция. Читаем и играем!
 
+Посмотреть прохождения уровней автором 25 лет спустя, после их создания на skill 4, 100% kill можно на [youtube](https://www.youtube.com/playlist?list=PL6fWf4OrKCBrJq0bGMJLoHjhLWKzRqhd8).
+
 Скриншоты:
 
 * ![](./screenshots/complex.jpg)
